@@ -17,6 +17,6 @@ I build multi-tenant regtech systems: the kind that process ~20,000 e-invoices a
 
 Building agentic infrastructure that pairs deep GİB regulatory knowledge with autonomous agents. Open to partnerships, advisory, and good technical conversations.
 
-**Links** — [LinkedIn](https://www.linkedin.com/in/KULLANICI-ADIN) · [npm](https://www.npmjs.com/~NPM-KULLANICI-ADIN)
+**Links** — [LinkedIn](https://www.linkedin.com/in/berkaygkc-) · [npm](https://www.npmjs.com/~berkaygkc)
 
 > Most of my work lives in private org repositories, so the public graph shows only part of it.
